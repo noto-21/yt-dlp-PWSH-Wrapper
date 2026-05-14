@@ -4,7 +4,7 @@
 
 # yt-dlp PWSH Wrapper
 
-A wrapper for the somewhat confusing and oft overcomplicated yt-dlp binary. Assumes that you have [yt-dlp](https://github.com/yt-dlp/yt-dlp), [ffmpeg](https://ffmpeg.org/), and [node](https://nodejs.org) already installed.
+A wrapper for the somewhat confusing and oft overcomplicated yt-dlp binary. Assumes that you have [yt-dlp](https://github.com/yt-dlp/yt-dlp), [ffmpeg](https://ffmpeg.org/), and [node](https://nodejs.org) already installed.  `yt-dl-config.json` assumes a Windows environment; please feel free to adjust paths if you are using the [linux wrapper](yt-dlp-wrapper) instead.
 
 ## Description
 
@@ -30,7 +30,7 @@ The script handles argument construction, playlist organization, audio/video mod
 
 ### Shell Command
 
-Can be placed anywhere you need to run it from.  Adjust paths for yt-dlp, ffmpeg, and node binaries using [yt-dl-config.json](https://github.com/noto-21/yt-dlp-PWSH-Wrapper/blob/main/yt-dl-config.json).
+Can be placed anywhere you need to run it from.  Adjust paths for yt-dlp, ffmpeg, and node binaries using [yt-dl-config.json](yt-dl-config.json).
 
 </div>
 
