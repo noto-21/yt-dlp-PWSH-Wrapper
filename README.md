@@ -8,6 +8,6 @@ A wrapper for the somewhat confusing and oft overcomplicated yt-dlp binary. Assu
 ### Shell Command
 Can be placed anywhere you need to run it from.  Adjust binary paths using `yt-dl-config.json`.
 
-<div align="center">
+</div>
 
 <hr>
