@@ -16,6 +16,8 @@ The script handles argument construction, playlist organization, audio/video mod
 
 ### Features
 
+</div>
+
 * Simple video or audio-only downloads
 * MP4 video output by default
 * MP3 extraction support with `-audio`
@@ -27,6 +29,8 @@ The script handles argument construction, playlist organization, audio/video mod
 * Debug output support
 * Automatic destination directory creation
 * Wrapper-based execution to avoid memorizing long yt-dlp commands
+
+<div align="center">
 
 ### Shell Command
 
