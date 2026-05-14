@@ -6,7 +6,7 @@ set -euo pipefail
 # Args
 # -----------------------------
 URL=""
-DEST="${HOME}/Videos"
+DEST="${HOME}"
 AUDIO=0
 UPDATE=0
 CONFIG_PATH=""
@@ -131,7 +131,7 @@ fi
 # -----------------------------
 update_binary () {
     echo "Updating yt-dlp..."
-    "$BINARY_PATH" -U
+    apt-get install yt-dlp
 }
 
 if [[ "$UPDATE" -eq 1 ]]; then
