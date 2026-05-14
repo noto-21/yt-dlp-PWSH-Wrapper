@@ -30,7 +30,7 @@ The script handles argument construction, playlist organization, audio/video mod
 
 ### Shell Command
 
-Can be placed anywhere you need to run it from.  Adjust paths for yt-dlp, ffmpeg, and node binaries using `yt-dl-config.json`.
+Can be placed anywhere you need to run it from.  Adjust paths for yt-dlp, ffmpeg, and node binaries using [yt-dl-config.json](https://github.com/noto-21/yt-dlp-PWSH-Wrapper/blob/main/yt-dl-config.json).
 
 </div>
 
