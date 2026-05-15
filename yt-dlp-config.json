@@ -5,5 +5,5 @@
     "jsruntimeName": "node",
     "videoSettings": "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]",
     "audioSettings": "mp3",
-    "logFile": "%USERPROFILE%\\Documents\\youtube-download.log"
+    "logFile": "%USERPROFILE%\\youtube-download.log"
 }
