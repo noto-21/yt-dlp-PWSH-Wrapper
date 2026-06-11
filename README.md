@@ -26,7 +26,6 @@ The script handles argument construction, playlist organization, audio/video mod
 * PowerShell transcript logging
 * Debug output support
 * Automatic destination directory creation
-* Wrapper-based execution to avoid memorizing long yt-dlp commands
 
 ### Shell Command
 
